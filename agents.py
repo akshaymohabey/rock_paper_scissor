@@ -9,6 +9,7 @@ Agents File
 """
 
 import random 
+
 import parameters as p
 
 class RandomPlayer(object):
